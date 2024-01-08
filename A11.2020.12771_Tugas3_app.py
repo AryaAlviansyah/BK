@@ -1567,7 +1567,3 @@ mengalami penurunan akurasi yang signifikan. Secara keseluruhan, penanganan dala
 
 if __name__ == "__main__":
     main()
-
- 	Virus-free.www.avast.com
-
-
