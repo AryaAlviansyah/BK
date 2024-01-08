@@ -1,3 +1,9 @@
-import streamlist as st
+import streamlit as st
 
-st.write('Hello world!) 
+paragraf = """
+Ini adalah contoh paragraf panjang yang akan ditampilkan dalam aplikasi Streamlit di VSCode.
+Anda dapat menambahkan lebih banyak teks di sini.
+"""
+
+# Menampilkan paragraf menggunakan st.markdown()
+st.markdown(paragraf)
