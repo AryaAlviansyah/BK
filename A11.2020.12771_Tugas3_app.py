@@ -620,7 +620,7 @@ sns.heatmap(cor_mat,annot=True,linewidths=0.5,fmt=".3f")
 
     """
     
-    st.markdown(long_paragraph)
+    st.write(long_paragraph)
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
